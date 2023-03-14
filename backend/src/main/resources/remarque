@@ -1,0 +1,3 @@
+2 maniere de cree les api Rest:
+        -soit en utilisant restController
+        -SpringDataRest
